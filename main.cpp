@@ -13,19 +13,8 @@ using namespace std;
 #define RAYA cout<<==============<<"\n"
 int main(){FIN;
     //ifstream cin("test.txt");
-    
-    //System("pause");
-=======
-#define forn(a,b,c) for(ll a=b;a<c;a++)
-#define show(a) cout<<a<<endl;
-#define showAll(a) for(auto i:a) cout<<i<<" ";cout<<endl
-#define input(a) for(auto& i:a) cin>>i
-#define all(a) a.begin(),a.end()
-int main(){
-    //ifstream cin("test.txt");
 
     //System(pause);
->>>>>>> c83f11734e0768acf79ab3cf6a932ebd8f1d70c0
     //cin.close()
     return 0;
 }
