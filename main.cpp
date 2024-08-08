@@ -26,16 +26,13 @@ typedef long long ll;
 typedef unsigned int ui;
 typedef unsigned long long ull;
 
-//void solve()
-
 int main(){
     FIN;
     //ifstream cin("input.in");
     //ofstream cout("output.txt");
     ll t;
-    //t = 1;
     cin>>t;
-    while(t--){ // solve()
+    while(t--){
         
     }
     //system("pause");
